@@ -19,3 +19,21 @@ int main(){
 	avg = sum/5;
 	printf("the average score is: %lf \n", avg);
 }
+
+
+
+/*
+   this code calculates the average of the 5 numbers which are 10,7,5,9,10 
+   gives the result of average score as  8.200000 
+//at each iteration  it calculates the sum of current and previous numbers and gives the sum result in each iteration
+
+the ouput of the code is
+
+for i = 0, sum = 10.000000 
+ for i = 1, sum = 17.000000 
+ for i = 2, sum = 22.000000 
+ for i = 3, sum = 31.000000 
+ for i = 4, sum = 41.000000 
+ the average score is: 8.200000 
+   
+*/
